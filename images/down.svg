@@ -1,0 +1,15 @@
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="8.65544188 10 7.40605178 11.5617376 13.0307468 16.0614937 18.6554419 11.5617376 17.4060518 10 13.0307468 13.500244"></polygon>
+    </defs>
+    <g id="Icons/Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="base" opacity="0" x="0" y="0" width="26" height="26"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#fff" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colors/dark1" mask="url(#mask-2)" fill="#fff">
+            <rect id="Color" x="0" y="0" width="26" height="26"></rect>
+        </g>
+    </g>
+</svg>

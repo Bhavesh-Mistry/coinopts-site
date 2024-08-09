@@ -1,0 +1,15 @@
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M20.6876215,17.1031737 L17.2087875,17.1031737 L17.2087875,19 L23.0298268,19 C23.5656387,19 24,18.575381 24,18.0515869 L24,12.3611081 L22.0596536,12.3611081 L22.0596536,15.761915 L14.4991973,8.37103282 C14.1203211,8.00065445 13.5060414,8.00065445 13.1271652,8.37103282 L8.96231517,12.4424691 L3.37203212,7 L2,8.34125871 L8.27629911,14.4543572 C8.65517532,14.8247355 9.26945502,14.8247355 9.64833123,14.4543572 L13.8131812,10.3829209 L20.6876215,17.1031737 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Fall" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="base" opacity="0" x="0" y="0" width="26" height="26"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#ff5a50" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colors/dark1" mask="url(#mask-2)" fill="#ff5a50">
+            <rect id="Color" x="0" y="0" width="26" height="26"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M7.29289322,17.2914607 C7.4804296,17.1039431 7.73478351,16.9985968 8,16.9985968 L20,16.9985968 C20.5522847,16.9985968 21,16.5509264 21,15.998697 L21,5.99969932 C21,5.44746992 20.5522847,4.99979954 20,4.99979954 L6,4.99979954 C5.44771525,4.99979954 5,5.44746992 5,5.99969932 L5,19.5841241 L7.29289322,17.2914607 Z M4.70710678,22.7051316 C4.07714192,23.3350333 3,22.8889112 3,21.9980957 L3,5.99969932 C3,4.34301113 4.34314575,3 6,3 L20,3 C21.6568542,3 23,4.34301113 23,5.99969932 L23,15.998697 C23,17.6553852 21.6568542,18.9983964 20,18.9983964 L8.41421356,18.9983964 L4.70710678,22.7051316 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="base" opacity="0" x="0" y="0" width="26" height="26"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#fff" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colors/dark1" mask="url(#mask-2)" fill="#fff">
+            <rect id="Color" x="0" y="0" width="26" height="26"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M18.5857864,12.007107 L14.2928932,7.71421375 L15.7071068,6.30000019 L21.7071068,12.3000002 C22.0976311,12.6905245 22.0976311,13.3236895 21.7071068,13.7142138 L15.7071068,19.7142138 L14.2928932,18.3000002 L18.5857864,14.007107 L5,14.007107 L5,12.007107 L18.5857864,12.007107 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="base" opacity="0" x="0" y="0" width="26" height="26"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#8193a7" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colors/dark1" mask="url(#mask-2)" fill="#8193a7">
+            <rect id="Color" x="0" y="0" width="26" height="26"></rect>
+        </g>
+    </g>
+</svg>
